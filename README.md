@@ -19,8 +19,4 @@ _(Madfut Universe - Discord Server Website)_
 
 _(Zeefut - Discord Server Website)_
 
-![image](https://user-images.githubusercontent.com/115407017/208231223-2ef48d41-4745-4cc8-9a1e-d7128eff43b8.png)
-
-_(Professional password checker)_
-
 
