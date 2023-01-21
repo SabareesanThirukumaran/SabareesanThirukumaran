@@ -2,11 +2,8 @@
  _I am an aspiring software developer 💻 who is currently learning: Python, Java and Javascript._
 
 **Facts about me :**
-- I started learning Html, Css at the age of 8 🧑‍💻
-- When I went into Secondary School, I decided I wanted to be a software engineer 🏫
 - I would like to work at startups as well as high tech industries such as Google and Amazon 🏢
 - Right now, I am 13 years old and learning Python, Javascript and Java 🌆
-- As you can tell by my name, I am South Asian : Srilankan 😁
 
 
 
