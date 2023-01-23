@@ -1,22 +1,3 @@
-👋 Hi, I am Sabareesan Thirukumaran.
- _I am an aspiring software developer 💻 who is currently learning: Python, Java and Javascript._
-
-**Facts about me :**
-- I would like to work at startups as well as high tech industries such as Google and Amazon 🏢
-- Right now, I am 13 years old and learning Python, Javascript and Java 🌆
-
-
-
-
-
-**Some of my projects :**
-
-![image](https://user-images.githubusercontent.com/115407017/208231074-739e77f4-9dcd-4f24-a70a-f87f9bbe0123.png)
-
-_(Madfut Universe - Discord Server Website)_
-
-![image](https://user-images.githubusercontent.com/115407017/208231097-4ad75dbc-cfe5-4eb2-82fd-a4d59e396ade.png)
-
-_(Zeefut - Discord Server Website)_
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
