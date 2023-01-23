@@ -14,7 +14,7 @@
   <h1>Hi there 🤖</hi>
 </div>
 <hr>
-
+<hr>
 <h3>🧑‍🎓 About Me:</h3>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -22,7 +22,7 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I try to automate my life as much as possible
-
+<hr>
 <h3>⛏️ Languages and Tools:</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -36,3 +36,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+<hr>
+<h3>🎊 My Stats:</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SabareesanThirukumaran&theme=algolia&border_radius=6"/></a>
+
+
