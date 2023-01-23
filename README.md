@@ -51,4 +51,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true" />
 </picture>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=vision-friendly-dark"/>
+</picture>
 
