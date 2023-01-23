@@ -40,5 +40,15 @@
 <hr>
 <h3>🎊 My Stats:</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SabareesanThirukumaran&theme=algolia&border_radius=6"/></a>
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true" />
+</picture>
 
