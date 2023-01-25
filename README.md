@@ -17,11 +17,15 @@
 <hr>
 <h3>🧑‍🎓 About Me:</h3>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am studying computer science and beginning my career !
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am passionate about making sure that I can help the lives of others using my learning.
 
-- :zap: In my free time, I try to automate my life as much as possible
+- :zap: I love to learn new things and am willing to adapt to any environment.
+
+- :robot: Automating my life has been crucial for where I have come to, to this day
+
+- :email: Contact me @thirukumaransabareesan18@gmail.com
 <hr>
 <h3>⛏️ Languages and Tools:</h3>
 <div align="center">
