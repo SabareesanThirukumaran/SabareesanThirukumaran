@@ -14,6 +14,10 @@
   <h1>Hi there 🤖</hi>
 </div>
 <hr>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ea/75/c8/ea75c80da1dd5e1c5a03f02a5c49d7dc.png">
+</div>
 <hr>
 <h3>🧑‍🎓 About Me:</h3>
 
