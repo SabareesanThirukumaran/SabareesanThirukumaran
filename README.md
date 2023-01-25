@@ -40,6 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+<div align="center" style="margin-top: 25px, padding-top: 25px">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <hr>
 <h3>🎊 My Stats:</h3>
@@ -59,8 +63,3 @@
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=vision-friendly-dark"/>
 </picture>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
