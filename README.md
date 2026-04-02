@@ -1,71 +1,50 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center" id="badges">
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# Hi there, I'm Sabareesan! 👋
 
-<div align="center">
-  <h1>Hi there 🤖</hi>
-</div>
-<hr>
+### 🚀 Computer Science Student | Aspiring Software Engineer | Automation Enthusiast
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ea/75/c8/ea75c80da1dd5e1c5a03f02a5c49d7dc.png">
-</div>
-<hr>
-<h3>🧑‍🎓 About Me:</h3>
+I am a Computer Science student passionate about leveraging technology to solve real-world problems and improve lives. I thrive in adaptive environments and love the challenge of learning new frameworks and automating workflows to increase efficiency.
 
-- :telescope: I am studying computer science and beginning my career !
+---
 
-- :seedling: I am passionate about making sure that I can help the lives of others using my learning.
+### 🧑‍💻 About Me
 
-- :zap: I love to learn new things and am willing to adapt to any environment.
+- 🎓 **Education:** Currently hoping to pursuw a degree in Computer Science.
+- 🌱 **Learning:** Deepening my knowledge in software architecture and advanced automation.
+- ⚡ **Fun Fact:** I believe if you have to do it more than twice, it should be automated.
+- 📧 **Reach me:** [sabareesanthirukumaran@gmail.com](mailto:sabareesanthirukumaran@gmail.com)
 
-- :robot: Automating my life has been crucial for where I have come to, to this day
+<p align="left">
+  <a href="https://www.linkedin.com/in/sabareesan-thirukumaran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-- :email: Contact me @thirukumaransabareesan18@gmail.com
-<hr>
-<h3>⛏️ Languages and Tools:</h3>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
+---
 
+### 🛠️ Languages and Tools
 
+**Development & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git" />
+</p>
 
-<div align="center" style="margin-top: 25px, padding-top: 25px">
+**Data Science & Automation**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,anaconda,jupyter" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sabareesanthirukumaran&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabareesanthirukumaran&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SabareesanThirukumaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<hr>
-<h3>🎊 My Stats:</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SabareesanThirukumaran&theme=algolia&border_radius=6"/></a>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=SabareesanThirukumaran&show_icons=true" />
-</picture>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SabareesanThirukumaran&layout=compact&theme=vision-friendly-dark"/>
-</picture>
+---
+<p align="center">
+  <i>"Automating the present to build the future."</i>
+</p>
